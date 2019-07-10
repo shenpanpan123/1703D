@@ -6,5 +6,9 @@ public class HelloGit {
 		System.out.println("hello git");
 	}
 	
+	public void run(){
+		System.out.println("运动会很健康");
+	}
+	
 	
 }
